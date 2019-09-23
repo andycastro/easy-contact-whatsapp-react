@@ -1,0 +1,33 @@
+body{
+    background: rgb(19,78,94);
+    background: linear-gradient(90deg, rgba(19,78,94,1) 0%, rgba(113,178,128,1) 100%);
+    color: #fff;
+    #root{
+        display: flex;
+        align-items: center;
+        align-content: center;
+        height: 100vh;
+        .App{
+            width: 100%;
+            .boxData{
+                align-content: center;
+                .logo{
+                    text-align:center; 
+                    font-size: 1.5em;
+                    .iconContact{
+                        float: left;
+                    }
+                }
+                .iconSend{
+                    font-size: 0.9em;
+                }
+                .textoExplicativo{
+                    margin: 40px 0 30px 0;
+                    font-weight: lighter;
+                }
+            }
+        }
+        
+    }
+}
+

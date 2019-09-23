@@ -1,0 +1,27 @@
+.form{
+    input[type=number], input[type=text]{
+        padding: 0 10px;
+        width: 275px;
+        margin: 0 auto;
+        margin-top: 20px;
+        height: 45px;
+        font-size: 0.9em;
+    }
+    button{
+        border: solid 1px #fff;
+        border-radius: 5px;
+        float: right;
+        margin-top: 20px;
+        height: 35px;
+        background-color: transparent;
+        color: #fff;
+        font-size: 1em;
+        padding: 0 30px;
+    }
+    .iconSend{
+        font-size: 0.9em;
+        padding-top: 3px;
+        float: right;
+        margin-left: 10px;
+    }
+}
