@@ -4,7 +4,7 @@ This is a simple project that helps me when I need to save folks contact in a me
 ## Base
 For this, I used React and gulp.
 
-## Contrubuitions
+## Contributions
 Contributions are welcome. If you see anything that can be better, fork this and send a PR, please.
 
 ### Contacts
