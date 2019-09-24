@@ -46,7 +46,7 @@ body {
 
 .form input[type=number], .form input[type=text] {
   padding: 0 10px;
-  width: 275px;
+  width: 92%;
   margin: 0 auto;
   margin-top: 20px;
   height: 45px;
@@ -83,10 +83,10 @@ body {
       body #root .App .boxData {
         align-content: center; }
         body #root .App .boxData .logo {
-          text-align: center;
           font-size: 1.5em; }
           body #root .App .boxData .logo .iconContact {
-            float: left; }
+            float: left;
+            margin-right: 15px; }
         body #root .App .boxData .iconSend {
           font-size: 0.9em; }
         body #root .App .boxData .textoExplicativo {
