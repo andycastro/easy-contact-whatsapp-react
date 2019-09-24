@@ -1,19 +1,11 @@
 //verify Guideline Sass to a perfect usability on https://sass-guidelin.es/
 @charset 'utf-8';
 //import files - This is my suggest, not a rule. You can to remove or add anything
-@import 'utils/variables';
-@import 'utils/mixins';
-@import 'utils/functions';
-@import 'utils/helpers';
 
 @import 'base/reset';
 @import 'base/typografy';
 
-@import 'layout/navigation';
 @import 'layout/grid';
-@import 'layout/header';
-@import 'layout/footer';
-@import 'layout/sidebar';
 @import 'layout/forms';
 
 @import 'pages/home';
